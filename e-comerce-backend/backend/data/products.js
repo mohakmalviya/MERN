@@ -20,7 +20,7 @@ const products = [
   {
     name: "Rega",
     description:
-    "Age : 23, Matches Played : 122, Skill Level : High ",      
+    "Age : 23, Matches Played : 121, Skill Level : High ",      
     price: 109,
     },
 ];
